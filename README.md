@@ -12,13 +12,18 @@ O software permite registrar e consultar dados de alunos (nome, matrícula, curs
 - [ ] Mostrar todos os alunos cadastrados em uma tabela HTML.
 
 ## Informações adicionais
-Instituição[^1]./
-Curso[^2]./
+Instituição[^1].  
+Curso[^2].  
 Equipe de desenvolvimento[^3].
 
-[^1]: Instituto Federal Catarinense - Campus Fraiburgo.
-[^2]: Análise e Desenvolvimento de Sistemas - 4ª Fase.
+[^1]: **Instituição**  
+> Instituto Federal Catarinense - Campus Fraiburgo
+
+[^2]: **Curso**  
+> Análise e Desenvolvimento de Sistemas - 4ª Fase
+
 [^3]: **Equipe de Desenvolvimento**  
-> Membros:  
+> **Membros:**  
 > - Laura Urba Antunes  
-> - Samuel Dolberth  
+> - Samuel Dolberth
+
