@@ -8,8 +8,8 @@ O software permite registrar e consultar dados de alunos (nome, matrícula, curs
 ## Requisitos
 - [x] Criar um app chamado alunos.
 - [x] Modelar uma classe Aluno com campos como: nome, sobrenome, data de nascimento, curso…
-- [ ] Criar um formulário html para cadastrar alunos.
-- [ ] Mostrar todos os alunos cadastrados em uma tabela HTML.
+- [x] Criar um formulário html para cadastrar alunos.
+- [x] Mostrar todos os alunos cadastrados em uma tabela HTML.
 
 ## Informações adicionais
 Instituição[^1].  
